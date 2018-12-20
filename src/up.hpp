@@ -4,3 +4,10 @@
 #include <stdio.h>
 
 #endif /* up_hpp */
+
+class Some
+{
+public:
+	Some();
+	~Some();
+}
