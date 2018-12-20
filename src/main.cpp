@@ -6,7 +6,7 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 #include <stdio.h>
-#include "broc_out/et/tools/app/proto/Person.pb.h"
+#include "broc_out/kuihuar/up/proto/person.pb.h"
 int main()
 {
 	Person person;
